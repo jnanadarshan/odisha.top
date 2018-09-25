@@ -28,7 +28,7 @@ You can contact on Facebook or drop an email to web[at]odisha[dot]top with your 
 
 <a href="https://facebook.com/odishafirst">Like **odisha.First.** on Facebook</a>
 
-<div class="fb-page" data-href="https://www.facebook.com/odishafirst" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/odishafirst" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/odishafirst">odisha First</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/OdishaFirstOfficial" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/odishafirst" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/odishafirst">odisha First</a></blockquote></div>
 
 
 

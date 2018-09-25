@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Odisha.First. Privacy Policy
 comments: true
 ---
 
@@ -20,7 +20,7 @@ comments: true
 <ul>
     <li>
         <p><strong>Service</strong></p>
-                <p>Service is the https://odisha.top & facebook page, group operated at https://fb.com/odishafirst website operated by odisha.First.</p>
+                <p>Service is the https://odisha.top & facebook page, group operated at https://fb.com/OdishaFirstOfficial website operated by odisha.First.</p>
             </li>
     <li>
         <p><strong>Personal Data</strong></p>
