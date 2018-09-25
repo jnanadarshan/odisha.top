@@ -1,10 +1,6 @@
 # Site
 name: "Odisha.First."
-<<<<<<< HEAD
 description: "Everythig about Odisha."
-=======
-description: "Everythig about odisha."
->>>>>>> 6b075a87b2aac343170ee0404a0266f4d64369c7
 meta_description: "Odisha First Official Website"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -21,14 +17,10 @@ authors:
     name: Admin
     display_name: Admin
     gravatar: author-thumb-admin-200x200.jpg
-<<<<<<< HEAD
-    email: web@cuttack.top
-=======
     email: web@odisha.top
->>>>>>> 6b075a87b2aac343170ee0404a0266f4d64369c7
     web: https://odisha.top
-    facebook: https://facebook.com/odishafirstofficial
-    twitter: https://twitter.com/odishafirst
+    facebook: https://facebook.com/OdishaFirstOfficial
+    twitter: https://twitter.com/OdishaFirst
     description: "Admins of the website."
   #john:
   #  name: John
