@@ -1,6 +1,10 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: Odisha.First. Stories Terms & Conditions
+=======
+title: odisha.First. Stories Terms & Conditions
+>>>>>>> 6b075a87b2aac343170ee0404a0266f4d64369c7
 comments: false
 ---
 
@@ -16,11 +20,11 @@ Please read the below Privacy policy in detail before submitting the story.
 
 -*Contact information* - You give the platform the right to contact you on the email/phone/address provided by you.
 
-- *Right to Modify* - Cuttack First group reserves the right to modify, replace, add content, images or other supporting material to make your submitted story more appealing and uniform. However the theme of your story will be kept as close to original as possible.
+- *Right to Modify* - odisha First group reserves the right to modify, replace, add content, images or other supporting material to make your submitted story more appealing and uniform. However the theme of your story will be kept as close to original as possible.
 
-- *Right to Reject* - Cuttack First reserves the right to reject any submitted story or delete a published story on its platform due to any reasons including but not limited to - misinformation, violation of other's privacy, hate speech, plagiarised material etc.
+- *Right to Reject* - odisha First reserves the right to reject any submitted story or delete a published story on its platform due to any reasons including but not limited to - misinformation, violation of other's privacy, hate speech, plagiarised material etc.
 
 
-Cuttack First i.e. the individual(s) involved the Facebook Page, Group, website reserve the right to change the Privacy Policy stated above without any prior notice to the people who submit stories.
+odisha First i.e. the individual(s) involved the Facebook Page, Group, website reserve the right to change the Privacy Policy stated above without any prior notice to the people who submit stories.
 
-Please write to - admin@cuttack.top for any clarification or objections.
+Please write to - admin@odisha.top for any clarification or objections.
