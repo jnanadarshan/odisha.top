@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cuttack.First. | About
+title: odisha.First. | About
 comments: true
 ---
 
