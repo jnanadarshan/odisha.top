@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cuttack.First. Stories Terms & Conditions
+title: Odisha.First. Stories Terms & Conditions
 comments: false
 ---
 

@@ -127,7 +127,7 @@ comments: true
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: administrator@cuttack.top</li>
+        <li>By email: administrator@odisha.top</li>
             <li>By visiting this page on our website: facebook.com/cuttackfirst</li>
 
         </ul>
