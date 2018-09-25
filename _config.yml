@@ -1,14 +1,14 @@
 # Site
-name: "Cuttack.First."
-description: "Everythig about Cuttack."
-meta_description: "Cuttack First Official Website"
+name: "odisha.First."
+description: "Everythig about odisha."
+meta_description: "odisha First Official Website"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
-url: https://cuttack.top
-enforce_ssl: cuttack.top
+url: https://odisha.top
+enforce_ssl: odisha.top
 google_analytics: 'UA-126196218-1'
-disqus: 'https-cuttack-top'
+disqus: 'https-odisha-top'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 # Authors
@@ -17,10 +17,10 @@ authors:
     name: Admin
     display_name: Admin
     gravatar: author-thumb-admin-200x200.jpg
-    email: web@cuttack.top
-    web: https://cuttack.top
-    facebook: https://facebook.com/cuttackfirst
-    twitter: https://twitter.com/cuttackfirst
+    email: web@odisha.top
+    web: https://odisha.top
+    facebook: https://facebook.com/odishafirst
+    twitter: https://twitter.com/odishafirst
     description: "Admins of the website."
   #john:
   #  name: John
