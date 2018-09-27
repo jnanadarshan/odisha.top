@@ -5,8 +5,8 @@ author: Admin
 categories: [ news, bhubaneswar ]
 image: assets/images/post2018/20180927-bda-template.png
 description: "Where is the outrage now?"
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 Bhubaneswar Development Authority (BDA) has published an RFP of tender for branding activities around campaign named **BHUBANESWAR.ME**. What might be a oversight or negligence the CV format asked for RFP has asked capabilities on three languages, Hindi, English & **Bengali**. Yes, you heard it right, Bengali. But surprisingly Odia is missing from the list. Can we expect a fraction of outrage and media coverage that happened during Abhijit Iyer's comments?
 
