@@ -6,7 +6,7 @@ GEM
     amp-jekyll (1.0.2)
       fastimage (>= 1.8.0)
       jekyll (~> 3.0)
-      nokogiri (>= 1.6.0)
+      nokogiri (>= 1.10.8)
     colorator (1.1.0)
     concurrent-ruby (1.0.5)
     em-websocket (0.5.1)
